@@ -1,0 +1,1 @@
+See [issues](http://github.com/devongovett/standards/issues)
